@@ -1,0 +1,39 @@
+body{
+    background-color:#075e54;
+    color:#25d366;
+    margin-left:20px;
+}
+.chat{
+    background-color: #25d366;
+    color:#ece5dd;
+    padding:20px;
+    border-radius:20px;
+    display:inline-block;
+    margin:20px;
+}
+.msg{
+    background-color: #128c7e;
+    padding:10px;
+    border-radius:15px;
+}
+.btn{
+    background-color: #de7f19;
+    color: #ece5dd;
+    border-radius: 15px;
+    padding:8px;
+    border:1px solid #de7f19;
+    }
+    .btnEdit{
+        background-color: #ece5dd;
+        color: #075e54;
+        border-radius: 15px;
+        padding:8px;
+        border:1px solid white;
+        }
+
+        .form{
+            width: 100px;
+            height:10px;
+           
+            display:inline-block;
+        }
